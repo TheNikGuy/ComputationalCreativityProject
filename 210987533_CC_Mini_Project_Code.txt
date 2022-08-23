@@ -1,0 +1,3 @@
+Google Colab link to the the mini-project 'Sketch Creation by Selecting Facial Features using CLIP guided StyleGAN3':
+
+https://colab.research.google.com/drive/1szf2w91i0dMclAXanV3amCXbh3cxi1wA?usp=sharing
