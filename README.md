@@ -1,1 +1,1 @@
-# ComputationalCreativityProject
+# Computational Creativity Project
