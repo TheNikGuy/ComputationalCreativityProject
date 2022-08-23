@@ -1,4 +1,4 @@
-# Computational Creativity Project
+# Computational Creativity Mini-Project
 
 In recent years, StyleGAN (a Generative Adversarial Network) and 
 its variants have established themselves as the image generators of convincing 
